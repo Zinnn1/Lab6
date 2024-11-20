@@ -10,6 +10,11 @@ nav{
     background-color: rgb(18, 60, 122);
     margin: 50px;
 }
+
+.card-body {
+    color: rgb(243, 197, 239);
+}
+
 body{
     background-color: black;
 }
